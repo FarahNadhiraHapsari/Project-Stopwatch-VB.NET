@@ -8,7 +8,7 @@ Fitur:
 - (Opsional) Simpan lap ke SQLite
 
 ## Requirement
-- Windows
+- Windows 7 atau lebih tinggi
 - Visual Studio (dengan .NET desktop workload)
 
 ## Cara build & run
